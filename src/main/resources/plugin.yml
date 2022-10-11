@@ -1,0 +1,10 @@
+name: SimpleDelayCommands
+version: '${project.version}'
+main: github.gzhc.delaytest.Main
+api-version: 1.8.8
+authors: [ night ]
+description: Simple Delay On Command
+website: gzhc.pl
+
+commands:
+  delay:
